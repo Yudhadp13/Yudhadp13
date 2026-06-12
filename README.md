@@ -15,7 +15,7 @@
 ![Yudha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudhadp13&show_icons=true&theme=tokyonight&hide_rank=false) -->
 
 #### 💫 About Me:
-Informatics Engineering Fresh Graduate | 5+ Years Administrative Experience | Interested in IT, Data & Software Development
+Informatics Engineering Graduate exploring Software Development, Data Analytics, and AI
 
 
 #### 🌐 Socials:
