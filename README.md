@@ -33,18 +33,17 @@ Informatics Engineering Fresh Graduate | 5+ Years Administrative Experience | In
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-[![](https://komarev.com/ghpvc/?username=Yudhadp13&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+#### 🕹️ Play Games With Me : Snake
 <img src="https://raw.githubusercontent.com/yudhadp13/yudhadp13/snake-output/snake.svg" alt="Snake animation" />
 
-###
-
+#### 👾 Play Games With Me : Pacman
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yudhadp13/yudhadp13/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yudhadp13/yudhadp13/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yudhadp13/yudhadp13/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
+[![](https://komarev.com/ghpvc/?username=Yudhadp13&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
