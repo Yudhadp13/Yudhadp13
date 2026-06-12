@@ -29,10 +29,6 @@ Informatics Engineering Fresh Graduate | 5+ Years Administrative Experience | In
 ![](https://streak-stats.demolab.com/?user=Yudhadp13&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yudhadp13&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
 #### 🕹️ Play Games With Me : Snake
 <img src="https://raw.githubusercontent.com/yudhadp13/yudhadp13/snake-output/snake.svg" alt="Snake animation" />
 
@@ -43,6 +39,8 @@ Informatics Engineering Fresh Graduate | 5+ Years Administrative Experience | In
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yudhadp13/yudhadp13/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
+#### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![](https://komarev.com/ghpvc/?username=Yudhadp13&icon=0&color=1)](https://visitcount.itsvg.in)
 
