@@ -15,3 +15,15 @@
 ##### My Github Stats
 
 ![Yudha's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudhadp13&show_icons=true&theme=tokyonight&hide_rank=false)
+
+<img src="https://raw.githubusercontent.com/yudhadp13/yudhadp13/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yudhadp13/yudhadp13/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yudhadp13/yudhadp13/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yudhadp13/yudhadp13/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
